@@ -1,0 +1,10 @@
+.bordered{
+	width: 500px;
+	height: 500px;
+	border-top: 5px red dashed;
+	border-left: 5px black double;
+	border-bottom: 5px green solid;
+	border-right: 5px yellow solid;
+	border-radius: 50%;
+
+}

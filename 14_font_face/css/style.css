@@ -1,0 +1,22 @@
+@font-face{
+	src: url(../fonts/Lemon_Milk/LEMONMILK-Regular.otf);
+	font-family: 'Lemon';
+	font-weight: normal;
+}
+
+.heading h1{
+	font-size: 60px;
+	font-family: 'Lemon';
+	font-weight: 500;
+	font-style: italic;
+
+}
+
+.paragraph p{
+	font-family: 'Lemon';
+		font-style: italic;
+}
+
+.paragraphTwo p{
+	font-family: 'Lemon';
+}

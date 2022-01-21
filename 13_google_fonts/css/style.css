@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.heading h1{
+	font-size: 60px;
+	font-weight: 100;
+font-style: italic;
+font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.paragraph p{
+
+	font-family: 'Roboto Slab', serif;
+}
+
+.paragraphTwo p{
+	font-family: 'Oswald', sans-serif;
+
+}
